@@ -7,17 +7,5 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Student\Create.cshtml" />
-    <Content Remove="Views\Student\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Views\Student\Create.cshtml" />
-    <None Include="Views\Student\Index.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
-  </ItemGroup>
-
-</Project>
+  </ItemGroup></Project>
