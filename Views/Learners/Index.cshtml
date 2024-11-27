@@ -1,69 +1,77 @@
 ﻿@model IEnumerable<WebApplication1.Models.Learner>
+
 @{
     ViewData["Title"] = "Learners List";
     Layout = "~/Views/Shared/MyLayout.cshtml";
 }
+
+<h1>Index</h1>
+
+<!-- Form tìm kiếm -->
+<form asp-action="Index" method="get" class="row mb-3">
+    <div class="col-md-4">
+        <input type="text" name="searchLastName" value="@ViewBag.SearchLastName" class="form-control" placeholder="Search by Last Name" />
+    </div>
+    <div class="col-md-4">
+        <input type="text" name="searchFirstName" value="@ViewBag.SearchFirstName" class="form-control" placeholder="Search by First Name" />
+    </div>
+    <div class="col-md-4">
+        <input type="submit" value="Search" class="btn btn-primary" />
+        <a href="@Url.Action("Index")" class="btn btn-secondary">Clear</a>
+    </div>
+</form>
+
+<!-- Button tạo mới -->
 <p>
     <a class="btn btn-primary" asp-action="Create">Create New</a>
 </p>
+
+<!-- Bảng hiển thị kết quả -->
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.LastName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FirstMidName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.EnrollmentDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Major)
-            </th>
+            <th>@Html.DisplayNameFor(model => model.LastName)</th>
+            <th>@Html.DisplayNameFor(model => model.FirstMidName)</th>
+            <th>@Html.DisplayNameFor(model => model.EnrollmentDate)</th>
+            <th>@Html.DisplayNameFor(model => model.Major)</th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.LastName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.FirstMidName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EnrollmentDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Major.MajorID)
-            </td>
-            <td>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                <td>@Html.DisplayFor(modelItem => item.FirstMidName)</td>
+                <td>@Html.DisplayFor(modelItem => item.EnrollmentDate)</td>
+                <td>@Html.DisplayFor(modelItem => item.Major.MajorID)</td>
+                <td>
                     <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.LearnerID"><i class="fas fa-edit"></i> Edit</a> |
                     <a class="btn btn-info" asp-action="Details" asp-route-id="@item.LearnerID"><i class="fas fa-info-circle"></i> Details</a> |
                     <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.LearnerID"><i class="fas fa-trash-alt"></i> Delete</a>
-            </td>
-        </tr>
-}
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+<!-- Pagination -->
 <div class="col-12">
     <div class="pagination d-flex justify-content-center mt-5">
-        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage - 1 })" class="rounded btn btn-primary me-1 @(ViewBag.CurrentPage == 1 ? "disabled" : "")">&laquo;</a>
+        <a href="@Url.Action("Index", new { searchLastName = ViewBag.SearchLastName, searchFirstName = ViewBag.SearchFirstName, page = ViewBag.CurrentPage - 1 })" class="rounded btn btn-primary me-1 @(ViewBag.CurrentPage == 1 ? "disabled" : "")">&laquo;</a>
 
         @for (int i = 1; i <= (int)ViewBag.TotalPages; i++)
         {
             if (i == 1 || i == (int)ViewBag.TotalPages || (i >= ViewBag.CurrentPage - 2 && i <= ViewBag.CurrentPage + 2))
             {
-                <a href="@Url.Action("Index", new { page = i })" class="rounded btn btn-primary me-1 @(ViewBag.CurrentPage == i ? "active" : "")">@i</a>
+                <a href="@Url.Action("Index", new { searchLastName = ViewBag.SearchLastName, searchFirstName = ViewBag.SearchFirstName, page = i })" class="rounded btn btn-primary me-1 @(ViewBag.CurrentPage == i ? "active" : "")">@i</a>
             }
             else if (i == 2 || i == (int)ViewBag.TotalPages - 1)
             {
-                <span>...</span> <!-- Hiển thị dấu ba chấm -->
+                <span>...</span>
             }
         }
 
-        <a href="@Url.Action("Index", new { page = ViewBag.CurrentPage + 1 })" class="rounded btn btn-primary @(ViewBag.CurrentPage == (int)ViewBag.TotalPages ? "disabled" : "")">&raquo;</a>
+        <a href="@Url.Action("Index", new { searchLastName = ViewBag.SearchLastName, searchFirstName = ViewBag.SearchFirstName, page = ViewBag.CurrentPage + 1 })" class="rounded btn btn-primary @(ViewBag.CurrentPage == (int)ViewBag.TotalPages ? "disabled" : "")">&raquo;</a>
     </div>
 </div>

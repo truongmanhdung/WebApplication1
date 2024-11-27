@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\truon\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,60 +23,12 @@
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,108 +43,140 @@
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\demo\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\demo\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\demo\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\demo\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -199,8 +187,20 @@
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\demo\\namedifferent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\demo\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\demo\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\demo\\postuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\demo\\postuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\views\\demo\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:views\\demo\\getuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|c:\\users\\truon\\source\\repos\\webapplication1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03860DA4-9407-4616-8FB5-61C900689784}|WebApplication1.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -210,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Learners\\Details.cshtml",
@@ -230,12 +230,11 @@
               "RelativeToolTip": "Views\\Learners\\Details.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:25:54.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:25:54.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Learners\\Delete.cshtml",
@@ -243,38 +242,36 @@
               "RelativeToolTip": "Views\\Learners\\Delete.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:25:20.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:25:20.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Learners\\Create.cshtml",
               "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Create.cshtml",
               "RelativeToolTip": "Views\\Learners\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-27T14:25:19.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Learners\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Edit.cshtml*",
-              "RelativeToolTip": "Views\\Learners\\Edit.cshtml*",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Learners\\Edit.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:24:09.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:24:09.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Enrollments\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Enrollments\\Index.cshtml",
@@ -282,25 +279,24 @@
               "RelativeToolTip": "Views\\Enrollments\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:20:28.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:20:28.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Learners\\Index.cshtml",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Index.cshtml",
-              "RelativeToolTip": "Views\\Learners\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Learners\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Learners\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-27T14:14:52.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "EnrollmentsController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\EnrollmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
@@ -308,12 +304,11 @@
               "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:13:46.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:13:46.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
               "Title": "MajorsController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\MajorsController.cs",
               "RelativeDocumentMoniker": "Controllers\\MajorsController.cs",
@@ -321,12 +316,11 @@
               "RelativeToolTip": "Controllers\\MajorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:12:57.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:12:57.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 9,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
@@ -334,25 +328,24 @@
               "RelativeToolTip": "Controllers\\CoursesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T14:12:15.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:12:15.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "LearnersController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\LearnersController.cs",
               "RelativeDocumentMoniker": "Controllers\\LearnersController.cs",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\LearnersController.cs",
-              "RelativeToolTip": "Controllers\\LearnersController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAqwLMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\LearnersController.cs*",
+              "RelativeToolTip": "Controllers\\LearnersController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T14:10:43.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Students\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
@@ -360,12 +353,11 @@
               "RelativeToolTip": "Views\\Students\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:53:01.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T13:53:01.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
@@ -373,12 +365,11 @@
               "RelativeToolTip": "Views\\Students\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:46:15.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T13:46:15.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 12,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -386,23 +377,22 @@
               "RelativeToolTip": "Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T13:44:31.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T13:44:31.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 13,
               "Title": "WebApplication1",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\truon\\Source\\Repos\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\truon\\Source\\Repos\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-13T11:05:05.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 14,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
@@ -410,12 +400,11 @@
               "RelativeToolTip": "Data\\SchoolContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:38:57.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:38:57.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 15,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
@@ -423,12 +412,11 @@
               "RelativeToolTip": "Data\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:37:33.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:37:33.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 16,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
@@ -436,12 +424,11 @@
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:34:24.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:34:24.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 17,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "Models\\Enrollment.cs",
@@ -453,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 18,
               "Title": "Learner.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Learner.cs",
               "RelativeDocumentMoniker": "Models\\Learner.cs",
@@ -461,12 +448,11 @@
               "RelativeToolTip": "Models\\Learner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:32:00.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:32:00.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 19,
               "Title": "Major.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Major.cs",
               "RelativeDocumentMoniker": "Models\\Major.cs",
@@ -478,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "MyLayoutHelper.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\MyLayoutHelper.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\MyLayoutHelper.cshtml",
@@ -486,12 +472,11 @@
               "RelativeToolTip": "Views\\Shared\\MyLayoutHelper.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T09:45:34.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:45:34.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 21,
               "Title": "RenderLeftMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
@@ -503,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 22,
               "Title": "RenderViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\ViewComponents\\RenderViewComponent.cs",
               "RelativeDocumentMoniker": "ViewComponents\\RenderViewComponent.cs",
@@ -515,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 23,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "Models\\MenuItem.cs",
@@ -523,12 +508,11 @@
               "RelativeToolTip": "Models\\MenuItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T09:38:23.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:38:23.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
@@ -536,12 +520,11 @@
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T09:36:55.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:36:55.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 25,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -553,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
               "Title": "Footer.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\Footer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Footer.cshtml",
@@ -561,12 +544,11 @@
               "RelativeToolTip": "Views\\Shared\\Footer.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T09:18:59.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:18:59.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 27,
               "Title": "LeftMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\LeftMenu.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\LeftMenu.cshtml",
@@ -574,12 +556,11 @@
               "RelativeToolTip": "Views\\Shared\\LeftMenu.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T09:18:25.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:18:25.9Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 28,
               "Title": "TopNav.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\TopNav.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\TopNav.cshtml",
@@ -591,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
@@ -599,12 +580,11 @@
               "RelativeToolTip": "wwwroot\\js\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-08T09:13:44.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:13:44.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
@@ -612,12 +592,11 @@
               "RelativeToolTip": "wwwroot\\css\\style.css",
               "ViewState": "AgIAAG4jAAAAAAAAAAAqwHwjAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-08T09:13:10.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:13:10.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 31,
               "Title": "MyLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\MyLayout.cshtml",
@@ -625,12 +604,11 @@
               "RelativeToolTip": "Views\\Shared\\MyLayout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T09:03:58.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T09:03:58.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 32,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -642,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -650,12 +628,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T08:40:23.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T08:40:23.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -663,12 +640,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T12:04:48.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T12:04:48.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -680,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -688,12 +664,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T11:54:25.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T11:54:25.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 37,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -701,12 +676,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T11:49:11.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T11:49:11.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -714,16 +688,15 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T11:45:10.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T11:45:10.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\truon\\Source\\Repos\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\truon\\source\\repos\\WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\truon\\Source\\Repos\\WebApplication1\\WebApplication1.csproj",
               "RelativeToolTip": "WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -731,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 40,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -739,12 +712,11 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAwCkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:52:15.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T12:52:15.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "Branch.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "Models\\Branch.cs",
@@ -752,12 +724,11 @@
               "RelativeToolTip": "Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:48:57.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T12:48:57.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Gender.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Models\\Gender.cs",
               "RelativeDocumentMoniker": "Models\\Gender.cs",
@@ -769,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 43,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -777,12 +748,11 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T12:41:18.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T12:41:18.693Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 44,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Demo\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Demo\\Index.cshtml",
@@ -794,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 45,
               "Title": "NameDifferent.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Demo\\NameDifferent.cshtml",
               "RelativeDocumentMoniker": "Views\\Demo\\NameDifferent.cshtml",
@@ -806,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Test.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Demo\\Test.cshtml",
               "RelativeDocumentMoniker": "Views\\Demo\\Test.cshtml",
@@ -818,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "PostUser.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Demo\\PostUser.cshtml",
               "RelativeDocumentMoniker": "Views\\Demo\\PostUser.cshtml",
@@ -830,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 48,
               "Title": "GetUser.cshtml",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Views\\Demo\\GetUser.cshtml",
               "RelativeDocumentMoniker": "Views\\Demo\\GetUser.cshtml",
@@ -842,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 49,
               "Title": "DemoController.cs",
               "DocumentMoniker": "C:\\Users\\truon\\source\\repos\\WebApplication1\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
@@ -850,8 +820,7 @@
               "RelativeToolTip": "Controllers\\DemoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T12:33:54.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T12:33:54.794Z"
             }
           ]
         }

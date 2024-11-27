@@ -20,11 +20,24 @@ namespace WebApplication1.Controllers
         }
 
         // GET: Learners
-        public async Task<IActionResult> Index(int page = 1, int pageSize = 5)
+        public async Task<IActionResult> Index(string searchLastName, string searchFirstName, int page = 1, int pageSize = 5)
         {
-            var learnersQuery = _context.Learners.Include(l => l.Major); // Sắp xếp theo LearnerId hoặc một trường khác bạn mong muốn
+            var learnersQuery = _context.Learners.Include(l => l.Major)
+                .OrderBy(l => l.LearnerID); // Sắp xếp theo LearnerID hoặc một trường khác bạn mong muốn
 
-            int totalItems = await learnersQuery.CountAsync(); // Tổng số học viên
+            // Kiểm tra và áp dụng tìm kiếm theo LastName
+            if (!string.IsNullOrEmpty(searchLastName))
+            {
+                learnersQuery = (IOrderedQueryable<Learner>)learnersQuery.Where(l => l.LastName.Contains(searchLastName));
+            }
+
+            // Kiểm tra và áp dụng tìm kiếm theo FirstMidName
+            if (!string.IsNullOrEmpty(searchFirstName))
+            {
+                learnersQuery = (IOrderedQueryable<Learner>)learnersQuery.Where(l => l.FirstMidName.Contains(searchFirstName));
+            }
+
+            int totalItems = await learnersQuery.CountAsync(); // Tổng số học viên sau khi lọc
             int totalPages = (int)Math.Ceiling((double)totalItems / pageSize); // Tính tổng số trang
 
             // Áp dụng phân trang
@@ -33,12 +46,15 @@ namespace WebApplication1.Controllers
                 .Take(pageSize) // Lấy số lượng học viên trên trang hiện tại
                 .ToListAsync();
 
-            // Truyền thông tin về phân trang cho ViewBag
+            // Truyền thông tin về phân trang và tìm kiếm cho ViewBag
             ViewBag.CurrentPage = page;
             ViewBag.TotalPages = totalPages;
+            ViewBag.SearchLastName = searchLastName;
+            ViewBag.SearchFirstName = searchFirstName;
 
             return View(result);
         }
+
 
 
         // GET: Learners/Details/5
