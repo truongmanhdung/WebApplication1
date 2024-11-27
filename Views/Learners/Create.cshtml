@@ -1,0 +1,55 @@
+﻿@model WebApplication1.Models.Learner
+
+@{
+    ViewData["Title"] = "Learners List";
+    Layout = "~/Views/Shared/MyLayout.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Learner</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="FirstMidName" class="control-label"></label>
+                <input asp-for="FirstMidName" class="form-control" />
+                <span asp-validation-for="FirstMidName" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="EnrollmentDate" class="control-label"></label>
+                <input asp-for="EnrollmentDate" class="form-control" />
+                <span asp-validation-for="EnrollmentDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-2">
+                <label asp-for="MajorID" class="control-label"></label>
+                <select asp-for="MajorID" class ="form-control" asp-items="ViewBag.MajorID"></select>
+            </div>
+            <div class="form-group mt-2 d-flex align-items-center">
+                <input type="submit" value="Create" class="btn btn-primary" />
+                <div class="ms-2">
+                    <a class="btn btn-danger" asp-action="Index">Back to List</a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@section Styles {
+    <link href="~/css/style.css" rel="stylesheet" />
+    <script src="~/js/script.js"></script>
+}

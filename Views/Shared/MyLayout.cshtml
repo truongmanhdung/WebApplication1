@@ -9,6 +9,7 @@
     <title>@ViewData["Title"] - Management System</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="./css/style.css" />
+    @RenderSection("Styles", required: false)
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
 </head>
 <body class="sb-nav-fixed">
@@ -24,7 +25,7 @@
         <!-- Begin Right content -->
         <div id="layoutSidenav_content">
             <!-- Begin Main -->
-            <main>
+            <main class="p-4">
                 @RenderBody()
             </main>
             <!-- End Main -->
